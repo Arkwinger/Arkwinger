@@ -1,1 +1,1 @@
-Welcome to my Git page.
+Hey, welcome to my GitHub. I’ve been studying cybersecurity for a while now and finally decided it’s time to start putting my work somewhere. This page is where I’ll share walkthroughs, tools I’ve used, random ideas, and anything else I think is worth keeping track of. It’s not perfect — just a space for stuff I’ve learned and built as I go.
