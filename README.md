@@ -35,7 +35,7 @@ While I lean blue team, I also have experience with red team tactics — giving 
 ![Autopsy](https://img.shields.io/badge/Autopsy-FF6F00?style=for-the-badge)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dominic-d-acri-32b223a8/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-d-acri-32b223a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arkwinger)
 
 My Github is fairly new. I have recently began updating it to present my work.
