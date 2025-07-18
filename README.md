@@ -32,12 +32,13 @@ While I lean blue team, I also have experience with red team tactics — giving 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-FF6F00?style=for-the-badge)
-
+![Metasploit](https://img.shields.io/badge/Metasploit-3B7BBF?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FB6F28?style=for-the-badge&logo=burp-suite&logoColor=white)
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-d-acri-32b223a8/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arkwinger)
 
 My Github is fairly new. I have recently began updating it to present my work.
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arkwinger&show_icons=true&theme=radical)
+
+Thanks for Reading! :)
