@@ -26,8 +26,6 @@ While I lean blue team, I also have experience with red team tactics — giving 
  <img src="https://tryhackme-badges.s3.amazonaws.com/Arkwinger.png" alt="Your Image Badge" /> [![Hack The Box Badge](https://www.hackthebox.com/badge/image/1384949)](https://www.hackthebox.com/achievement/badge/1384949/214)
 
 
-
-
 ##  Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
