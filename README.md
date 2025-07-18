@@ -21,6 +21,12 @@ While I lean blue team, I also have experience with red team tactics — giving 
 ##  Hands-On Labs
 - TryHackMe: [Arkwinger Profile](https://tryhackme.com/p/Arkwinger)
 - GitHub Projects: [Arkwinger Repos](https://github.com/Arkwinger)
+- Hack The Box: [Arkwinger Profile](https://www.hackthebox.com/user/1384949)
+  
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Arkwinger.png" alt="Your Image Badge" /> [![Hack The Box Badge](https://www.hackthebox.com/badge/image/1384949)](https://www.hackthebox.com/achievement/badge/1384949/214)
+
+
+
 
 ##  Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
