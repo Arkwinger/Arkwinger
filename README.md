@@ -6,6 +6,7 @@
 - Blue Team Level 1 (BTL1)
 - TryHackMe SOC Level 1 (completed the full path, cert not claimed)
 - PCAP (Python Institute)
+- HackTheBox CDSA 
 
 
 
