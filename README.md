@@ -8,7 +8,7 @@
 - HackTheBox CDSA 
 
 
-)
+
 
  ## What I Do
 Cybersecurity enthusiast building real-world skills for blue team operations. My focus includes:
