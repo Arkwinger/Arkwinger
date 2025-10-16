@@ -8,11 +8,10 @@
 - HackTheBox CDSA 
 
 
-
-- HTB Certified Defensive Security Analyst (pending)
+)
 
  ## What I Do
-Cybersecurity student building real-world skills for blue team operations. My focus includes:
+Cybersecurity enthusiast building real-world skills for blue team operations. My focus includes:
 - Threat detection & incident response
 - SOC workflows & digital forensics
 - Log analysis, timeline reconstruction, and investigative tooling
