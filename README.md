@@ -38,6 +38,5 @@ While I lean blue team, I also have experience with red team tactics — giving 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arkwinger)
 
-My Github is fairly new. I have recently began updating it to present my work.
 
 Thanks for Reading! :)
