@@ -1,42 +1,57 @@
-#  Hello, I'm Arkwinger
+# 👋 Hello, I'm Arkwinger
 
-##  Certifications
-- CompTIA Security+
-- GIAC GFACT
-- Blue Team Level 1 (BTL1)
-- PCAP (Python Institute)
-- HackTheBox CDSA 
+### Cybersecurity Analyst | Blue Team Operations | Digital Forensics
 
+---
 
+## 🎓 Certifications
+- **CompTIA Security+**
+- **GIAC GFACT**
+- **Blue Team Level 1 (BTL1)**
+- **Hack The Box – Certified Defensive Security Analyst (CDSA)**
+- **PCAP – Python Certified Associate**
 
+---
 
- ## What I Do
-Cybersecurity enthusiast building real-world skills for blue team operations. My focus includes:
-- Threat detection & incident response
-- SOC workflows & digital forensics
-- Log analysis, timeline reconstruction, and investigative tooling
+## 🧠 About Me
+I’m a cybersecurity enthusiast specializing in **blue team defense**, **incident response**, and **digital forensics**.  
+My background combines hands-on analysis of adversary behavior with real-world SOC workflows and investigative reporting.
 
-While I lean blue team, I also have experience with red team tactics — giving me deeper insight into attacker behavior and how to defend against it.
+**Focus areas:**
+- Threat detection & response (SIEM, log correlation)
+- Host/network forensics & timeline reconstruction  
+- Automation using Python and investigative tooling  
+- Red-team awareness for stronger defense strategies  
 
-##  Hands-On Labs
-- TryHackMe: [Arkwinger Profile](https://tryhackme.com/p/Arkwinger)
-- GitHub Projects: [Arkwinger Repos](https://github.com/Arkwinger)
-- Hack The Box: [Arkwinger Profile](https://www.hackthebox.com/user/1384949)
-  
- <img src="https://tryhackme-badges.s3.amazonaws.com/Arkwinger.png" alt="Your Image Badge" />  [![Hack The Box Badge](https://www.hackthebox.com/badge/image/1384949)](https://www.hackthebox.com/achievement/badge/1384949/214)
+---
 
+## 🧪 Hands-On Practice
+- **TryHackMe:** [Arkwinger Profile](https://tryhackme.com/p/Arkwinger)  
+- **Hack The Box:** [Arkwinger Profile](https://www.hackthebox.com/user/1384949)  
+- **GitHub Projects:** [@Arkwinger](https://github.com/Arkwinger)
 
-##  Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-FF6F00?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-3B7BBF?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FB6F28?style=for-the-badge&logo=burp-suite&logoColor=white)
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-d-acri-32b223a8/)
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Arkwinger.png" height="90" alt="TryHackMe Badge" />
+  <img src="https://www.hackthebox.com/badge/image/1384949" height="90" alt="HackTheBox Badge" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arkwinger)
+---
 
+## 🧰 Technical Toolkit
+| Category | Tools |
+|-----------|-------|
+| **Languages** | Python, Bash |
+| **Forensics** | Autopsy, Volatility, Chainsaw |
+| **Detection / SIEM** | Splunk, Elastic, LimaCharlie |
+| **Networking** | Wireshark, Zeek |
+| **Offensive Familiarity** | Metasploit, Burp Suite, Nmap |
 
-Thanks for Reading! :)
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-d-acri-32b223a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Arkwinger)
+
+---
+
+<sub>Building one investigation at a time 🕵️‍♂️</sub>
