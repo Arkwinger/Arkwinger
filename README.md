@@ -1,13 +1,13 @@
-# 👋 Arkwinger
+#  Arkwinger
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 **Security+** · **GIAC GFACT** · **BTL1** · **HTB CDSA** · **PCAP**
 
 ---
 
-## 🧠 About
+##  About
 Blue-team practitioner focused on **defensive operations**, **threat detection**, and **digital forensics**.  
 Experience across SOC workflows, adversary emulation, and investigative reporting.
 
@@ -15,7 +15,7 @@ Experience across SOC workflows, adversary emulation, and investigative reportin
 
 ---
 
-## 🧪 Practice
+##  Practice
 [TryHackMe](https://tryhackme.com/p/Arkwinger) · [Hack The Box](https://www.hackthebox.com/user/1384949) · [GitHub](https://github.com/Arkwinger)
 
 <div align="center">
@@ -25,7 +25,7 @@ Experience across SOC workflows, adversary emulation, and investigative reportin
 
 ---
 
-## 🧰 Toolkit
+##  Toolkit
 | Languages | Forensics | Detection | Network | Adversary |
 |------------|------------|------------|----------|------------|
 | Python, Bash | Autopsy, Volatility, Chainsaw | Splunk, Elastic, LimaCharlie | Wireshark, Zeek | Metasploit, Burp, Nmap |
