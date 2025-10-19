@@ -1,21 +1,21 @@
-#  Arkwinger
+# 👋 Arkwinger
 
 ---
 
-##  Certifications
+## 🎓 Certifications
 **Security+** · **GIAC GFACT** · **BTL1** · **HTB CDSA** · **PCAP**
 
 ---
 
-##  About
-Blue-team practitioner focused on **defensive operations**, **threat detection**, and **digital forensics**.  
-Experience across SOC workflows, adversary emulation, and investigative reporting.
+## 🧠 About
+I explore the intersection of **defense, analysis, and threat intelligence** — using practical blue-team skills to understand and counter real adversaries.  
+My work focuses on **incident response**, **forensic reconstruction**, and **building better visibility across systems**.  
 
-**Core:** Incident response · Log & timeline analysis · SIEM correlation · Forensic triage · Python automation
+Grounded in hands-on labs and attack simulations, I approach cybersecurity as both an investigation and an engineering discipline — where curiosity drives every discovery.
 
 ---
 
-##  Practice
+## 🧪 Practice
 [TryHackMe](https://tryhackme.com/p/Arkwinger) · [Hack The Box](https://www.hackthebox.com/user/1384949) · [GitHub](https://github.com/Arkwinger)
 
 <div align="center">
@@ -25,7 +25,7 @@ Experience across SOC workflows, adversary emulation, and investigative reportin
 
 ---
 
-##  Toolkit
+## 🧰 Toolkit
 | Languages | Forensics | Detection | Network | Adversary |
 |------------|------------|------------|----------|------------|
 | Python, Bash | Autopsy, Volatility, Chainsaw | Splunk, Elastic, LimaCharlie | Wireshark, Zeek | Metasploit, Burp, Nmap |
@@ -37,4 +37,4 @@ Experience across SOC workflows, adversary emulation, and investigative reportin
 
 ---
 
-<sub>Building one investigation at a time.</sub>
+<sub>Focused on clarity, precision, and defense that actually works.</sub>
