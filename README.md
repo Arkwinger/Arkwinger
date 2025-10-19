@@ -1,13 +1,13 @@
-# 👋 Arkwinger
+#  Arkwinger
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 **Security+** · **GIAC GFACT** · **BTL1** · **HTB CDSA** · **PCAP**
 
 ---
 
-## 🧠 About
+##  About
 I explore the intersection of **defense, analysis, and threat intelligence** — using practical blue-team skills to understand and counter real adversaries.  
 My work focuses on **incident response**, **forensic reconstruction**, and **building better visibility across systems**.  
 
@@ -15,7 +15,7 @@ Grounded in hands-on labs and attack simulations, I approach cybersecurity as bo
 
 ---
 
-## 🧪 Practice
+##  Practice
 [TryHackMe](https://tryhackme.com/p/Arkwinger) · [Hack The Box](https://www.hackthebox.com/user/1384949) · [GitHub](https://github.com/Arkwinger)
 
 <div align="center">
@@ -25,14 +25,14 @@ Grounded in hands-on labs and attack simulations, I approach cybersecurity as bo
 
 ---
 
-## 🧰 Toolkit
+##  Toolkit
 | Languages | Forensics | Detection | Network | Adversary |
 |------------|------------|------------|----------|------------|
 | Python, Bash | Autopsy, Volatility, Chainsaw | Splunk, Elastic, LimaCharlie | Wireshark, Zeek | Metasploit, Burp, Nmap |
 
 ---
 
-## 🌐 Connect
+##  Connect
 [LinkedIn](https://www.linkedin.com/in/dominic-d-acri-32b223a8/) · [GitHub](https://github.com/Arkwinger)
 
 ---
