@@ -9,6 +9,7 @@
 
 ##  About
 I explore the intersection of **defense, analysis, and threat intelligence** — using practical blue-team skills to understand and counter real adversaries.  
+
 My work focuses on **incident response**, **forensic reconstruction**, and **building better visibility across systems**.  
 
 Grounded in hands-on labs and attack simulations, I approach cybersecurity as both an investigation and an engineering discipline — where curiosity drives every discovery.
