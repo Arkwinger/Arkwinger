@@ -1,4 +1,4 @@
-#  Arkwinger
+# Arkwinger
 
 ---
 
@@ -8,11 +8,29 @@
 ---
 
 ##  About
-I explore the intersection of **defense, analysis, and threat intelligence** — using practical blue-team skills to understand and counter real adversaries.  
+I explore the intersection of **cybersecurity, analysis, and experimental projects**, constantly learning and building things that help me understand systems more deeply.
 
-My work focuses on **incident response**, **forensic reconstruction**, and **building better visibility across systems**.  
+My focus is on **hands-on problem solving** — breaking things down, experimenting, and improving through practical labs.
 
-Grounded in hands-on labs and attack simulations, I approach cybersecurity as both an investigation and an engineering discipline — where curiosity drives every discovery.
+---
+
+##  AI Projects & Interests
+I study AI from a practical, experimental angle.  
+Not theory — just **learning by building real models**.
+
+Some of the projects I’ve created:
+
+- **SMS Spam Classifier (NLP)**  
+  A full preprocessing pipeline, feature engineering, model tuning, and evaluation.
+
+- **Network Anomaly Detector (NSL-KDD)**  
+  Random Forest model that classifies Normal, DoS, Probe, Privilege Escalation, and Access attacks.
+
+- **Model Saving & Deployment Experiments**  
+  Exporting `.joblib` models, running evaluations, and understanding how ML ties into problem-solving.
+
+My interest in AI is simple:  
+**I like building things, seeing how they work, and improving with each iteration.**
 
 ---
 
@@ -27,15 +45,16 @@ Grounded in hands-on labs and attack simulations, I approach cybersecurity as bo
 ---
 
 ##  Toolkit
-| Languages | Forensics | Detection | Network | Adversary |
-|------------|------------|------------|----------|------------|
-| Python, Bash | Autopsy, Volatility, Chainsaw | Splunk, Elastic, LimaCharlie | Wireshark, Zeek | Metasploit, Burp, Nmap |
+
+| Languages       | Forensics                         | Detection                   | Network           | Adversary      |
+|-----------------|-----------------------------------|-----------------------------|-------------------|----------------|
+| Python, Bash    | Autopsy, Volatility, Chainsaw     | Splunk, Elastic, LimaCharlie | Wireshark, Zeek  | Metasploit, Burp, Nmap |
 
 ---
 
-##  Connect
+## 🌐 Connect
 [LinkedIn](https://www.linkedin.com/in/dominic-d-acri-32b223a8/) · [GitHub](https://github.com/Arkwinger)
 
 ---
 
-<sub>Focused on clarity, precision, and defense that actually works.</sub>
+<sub>Curiosity first. Everything else follows.</sub>
