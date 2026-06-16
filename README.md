@@ -11,4 +11,4 @@ I explore the intersection of **cybersecurity, analysis, and experimental projec
 ---
 
 Cybersecurity • AI Security Research  
-HTB CPTS • HTB CDSA • BTL1 • Security+ • GIAC GFACT
+
